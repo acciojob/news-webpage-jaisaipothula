@@ -23,6 +23,15 @@ body {
     border-radius: 8px;        /* Rounded corners */
 }
 
+.latest-news-section ul {
+    list-style-type: none;     /* Remove bullets from list */
+    padding: 0;                /* Remove default padding */
+}
+
+.latest-news-section li {
+    margin-bottom: 10px;       /* Space between list items */
+}
+
 /* Pictorial News section styling */
 .pictorial-news-section {
     background-color: white;   /* White background for the pictorial news section */
